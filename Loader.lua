@@ -15,7 +15,7 @@ local placeId = game.GameId
 local scriptURLs = {
     [6558526079] = "https://raw.githubusercontent.com/saintfulls/SapphireHub/main/UI/Scripts/AWTD.lua", 
     [16146832113] = "https://raw.githubusercontent.com/saintfulls/SapphireHub/main/UI/Scripts/AV.lua",
-    [15846919378] = "https://raw.githubusercontent.com/saintfulls/zregrzezb/refs/heads/main/add3"
+    [5479908441] = "https://raw.githubusercontent.com/saintfulls/zregrzezb/refs/heads/main/add3"
 }
 
 if scriptURLs[placeId] then
